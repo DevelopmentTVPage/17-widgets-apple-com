@@ -1,0 +1,15 @@
+{
+    "title": "apple",
+    "baseURL": "https:\/\/widgets.apple.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758799",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "apple.com"
+    }
+}
